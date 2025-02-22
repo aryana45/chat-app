@@ -3,7 +3,7 @@
 The Real-Time Responsive Chat App is a web application designed for instant messaging with real-time updates and responsive design. It enables users to communicate seamlessly while ensuring security and performance.
 
 ## Deployment
-https://yourchatapp.onrender.com
+https://chat-app-2x64.onrender.com
 
 ## Features
 - Real-time messaging
